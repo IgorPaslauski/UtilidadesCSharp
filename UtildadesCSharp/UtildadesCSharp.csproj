@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Exceptions\Exceptions.csproj" />
+      <ProjectReference Include="..\FileUtils\FileUtils.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtildadesCSharp", "Utildade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUtils", "FileUtils\FileUtils.csproj", "{4B46D6EA-7A81-48DB-A938-7F0B7E673A5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{49061D32-0451-4C65-B710-A690CAB66385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{C9397325-836E-4020-B190-6A55829AFF22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{4B46D6EA-7A81-48DB-A938-7F0B7E673A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B46D6EA-7A81-48DB-A938-7F0B7E673A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B46D6EA-7A81-48DB-A938-7F0B7E673A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49061D32-0451-4C65-B710-A690CAB66385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49061D32-0451-4C65-B710-A690CAB66385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49061D32-0451-4C65-B710-A690CAB66385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49061D32-0451-4C65-B710-A690CAB66385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9397325-836E-4020-B190-6A55829AFF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9397325-836E-4020-B190-6A55829AFF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9397325-836E-4020-B190-6A55829AFF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9397325-836E-4020-B190-6A55829AFF22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
